@@ -1,0 +1,53 @@
+h1{
+	text-align: center;
+}
+body{
+	background-image: url(img/bgc.jpg);
+}
+.name{
+		
+}
+h2{
+	font-size: 24px;
+}
+.answer{
+
+}
+
+p{
+	color: #696969;
+}
+#button{
+	padding: 20px 120px;
+	cursor: pointer;
+	display: block;
+	margin-top: 48px;
+	border: 2px solid #008B8B;
+	border-radius: 8px;
+}
+.correct{
+	border: 2px solid #00FF00;
+}
+.incorrect{
+	border: 2px solid red;
+}
+.quest{
+	border: 3px solid #5F9EA0;
+	width: 50%;
+	margin-bottom: 10px;
+	position: relative;
+	padding: 20px 20px;
+}
+input{
+	border: 2px solid #00CED1;
+	border-radius: 8px;
+	padding: 10px 20px;
+}
+#test{
+	background-color: white;
+	width: 60%;
+	margin: 50px auto;
+}
+.questions{
+	margin-left: 300px;
+}
